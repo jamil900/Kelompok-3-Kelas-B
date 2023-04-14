@@ -1,7 +1,7 @@
 # Kelompok-3-Kelas-B
 Evaluasi Prak Mobile
 # kelompok_3
-# Jamil, Dimas, Reksya 
+# Jamil, Dimas, Reksya Prayoga
 
 ## Getting Started
 
