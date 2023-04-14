@@ -31,11 +31,10 @@ class User {
       id: 001,
       name: "Kelompok 3 ",
       username: "kelompokTigas",
-      email: "kelompokTigas@usumlah.com",
+      email: "kelompokTigas@gmail.com",
       profilePhoto:
           "https://media.istockphoto.com/id/476085198/id/foto/siluet-pebisnis-sebagai-avatar-atau-gambar-profil-default.jpg?b=1&s=612x612&w=0&k=20&c=lBEs5J7_LN-NathZ9qlsVqNT6Nnf0YniN6AnskjXpPw=",
-      phoneNumber: "Mana",
+      phoneNumber: "089999999999",
     );
   }
 }
-
