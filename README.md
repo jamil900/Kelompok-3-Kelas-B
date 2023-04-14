@@ -1,5 +1,5 @@
 # kelompok_3
-# Ridzky Guntur Nuriawan ,Dzikri Aprila,Rizky Mutaqien,Fathi Ridwan Alamsyah
+# Aw
 
 Base Code Pertemuan Lima Sesuai Video
 
